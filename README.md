@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Group member: Chloe Gao, Xuchen Chen, Jung Hwan Lee
 
 Why are you interested in this field/domain?
